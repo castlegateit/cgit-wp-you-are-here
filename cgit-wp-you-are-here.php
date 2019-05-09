@@ -8,7 +8,7 @@ Description: Easy environment-specific messages.
 Version: 1.1
 Author: Castlegate IT
 Author URI: http://www.castlegateit.co.uk/
-License: AGPL
+License: AGPLv3
 
 */
 
